@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xml>
 <version>1.0</version>
 <view>1-tierView</view>
@@ -6,13 +6,13 @@
 <channel_logo>http://www.server.com/link/to/logo</channel_logo>
 <tier_info>
 <item_startidx>0</item_startidx>
-<total_items>5</total_items>
-<items_link> http://www.server.com/link/to/this/page</items_link>
+<total_items>1</total_items>
+<items_link>https://www.youtube.com/watch?v=nyY0xIz6u8Y</items_link>
 </tier_info>
 <items>
 <item>
-<id>43</id>
-<name>Channel Name</name>
+<id>1</id>
+<name>Nani Teri Morni</name>
 <mastertype>vod</mastertype >
 <type>Poems</type>
 <security>No</security>
