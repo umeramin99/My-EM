@@ -12,13 +12,13 @@
 <items>
    <item>
   <id>3</id>
-  <name>Lakri Ki Kaathi</name>
+  <name>YT Lakri Ki Kaathi</name>
   <mastertype>vod</mastertype>
-  <type>Poems</type>
+  <type>youtubesinglevideo</type>
   <security>No</security>
   <security_type>no</security_type>
   <security_key>no</security_key>
-  <link>http://www.dailymotion.com/video/x24rouf_nani-teri-morni-ko-mor-le-gae_fun</link>
+  <link>https://www.youtube.com/embed/2gm90wOZUPg</link>
   <item_image></item_image>
 <popup>
   <message>Lakri Ki Kaathi</message>
@@ -31,7 +31,7 @@
 </item>
     <item>
   <id>2</id>
-  <name>Lakri Ki Kaathi</name>
+  <name>DM Lakri Ki Kaathi</name>
   <mastertype>vod</mastertype>
   <type>youtubesinglevideo</type>
   <security>No</security>
