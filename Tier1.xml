@@ -10,52 +10,14 @@
 <items_link>https://raw.githubusercontent.com/umeramin99/My-EM/master/Tier1.xml</items_link>
   </tier_info>
 <items>
-   <item>
-  <id>3</id>
-  <name>YT Lakri Ki Kaathi</name>
-  <mastertype>vod</mastertype>
-  <type>youtubesinglevideo</type>
-  <security>No</security>
-  <security_type>no</security_type>
-  <security_key>no</security_key>
-  <link>https://www.youtube.com/embed/2gm90wOZUPg</link>
-  <item_image></item_image>
-<popup>
-  <message>Lakri KiKaathi</message>
-  <type>non-blocking</type>
-<buttons>
-  <button><type>continue</type><text>Ok</text></button>
-  <button><type>cancel</type><text>Cancel</text></button>
-  </buttons>
-</popup>
-</item>
-    <item>
-  <id>2</id>
-  <name>DM Lakri Ki Kaathi</name>
-  <mastertype>vod</mastertype>
-  <type>dailymotionsinglevideo</type>
-  <security>No</security>
-  <security_type>no</security_type>
-  <security_key>no</security_key>
-  <link>www.dailymotion.com/embed/video/x24rouf</link>
-  <item_image></item_image>
-<popup>
-  <message>Lakri Ki Kaathi</message>
-  <type>non-blocking</type>
-<buttons>
-  <button><type>continue</type><text>Ok</text></button>
-  <button><type>cancel</type><text>Cancel</text></button>
-  </buttons>
-</popup>
-</item>
 <item>
   <id>1</id>
   <name>Nani Teri Morni</name>
   <mastertype>vod</mastertype>
-  <type>youtubesinglevideo</type>
+  <type>children</type>
   <security>No</security>
-  <security_type>no</security_type>
-  <security_key>no</security_key>
+  <security_type></security_type>
+  <security_key></security_key>
   <link>https://www.youtube.com/watch?v=nyY0xIz6u8Y</link>
   <item_image></item_image>
 <popup>
