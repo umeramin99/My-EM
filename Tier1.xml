@@ -6,12 +6,12 @@
   <channel_logo>http://www.server.com/link/to/logo</channel_logo>
 <tier_info>
   <item_startidx>0</item_startidx>
-  <total_items>2</total_items>
+  <total_items>3</total_items>
 <items_link>https://raw.githubusercontent.com/umeramin99/My-EM/master/Tier1.xml</items_link>
   </tier_info>
 <items>
    <item>
-  <id>2</id>
+  <id>3</id>
   <name>Lakri Ki Kaathi</name>
   <mastertype>vod</mastertype>
   <type>Poems</type>
