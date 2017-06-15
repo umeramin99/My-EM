@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+<version>1.0</version>
+<view>1-tierView</view>
+<title>New Channels</title>
+<channel_logo>http://www.server.com/link/to/logo</channel_logo>
+<tier_info>
+<item_startidx>0</item_startidx>
+<total_items>5</total_items>
+<items_link> http://www.server.com/link/to/this/page</items_link>
+</tier_info>
+<items>
+<item>
+<id>43</id>
+<name>Channel Name</name>
+<mastertype>vod</mastertype >
+<type>Poems</type>
+<security>No</security>
+<security_type></security_type>
+<security_key></security_key>
+<link>Link to play this channel</link>
+<item_image>https://www.youtube.com/watch?v=nyY0xIz6u8Y</item_image>
+<popup>
+<message>Nani Teri Morni</message>
+<type>non-blocking</type>
+<buttons>
+<button><type>continue</type><text>Ok</text></button>
+<button><type>cancel</type><text>Cancel</text></button>
+</buttons>
+</popup>
+</item>
+</items>
+</xml>
