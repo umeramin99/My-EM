@@ -33,7 +33,7 @@
   <id>2</id>
   <name>DM Lakri Ki Kaathi</name>
   <mastertype>vod</mastertype>
-  <type>youtubesinglevideo</type>
+  <type>dailymotionsinglevideo</type>
   <security>No</security>
   <security_type>no</security_type>
   <security_key>no</security_key>
@@ -52,7 +52,7 @@
   <id>1</id>
   <name>Nani Teri Morni</name>
   <mastertype>vod</mastertype>
-  <type>Poems</type>
+  <type>youtubesinglevideo</type>
   <security>No</security>
   <security_type>no</security_type>
   <security_key>no</security_key>
