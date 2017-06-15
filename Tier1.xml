@@ -21,7 +21,7 @@
   <link>https://www.youtube.com/embed/2gm90wOZUPg</link>
   <item_image></item_image>
 <popup>
-  <message>Lakri Ki Kaathi</message>
+  <message>Lakri KiKaathi</message>
   <type>non-blocking</type>
 <buttons>
   <button><type>continue</type><text>Ok</text></button>
