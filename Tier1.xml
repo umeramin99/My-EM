@@ -29,5 +29,24 @@
   </buttons>
 </popup>
 </item>
+  <item>
+  <id>2</id>
+  <name>Test</name>
+  <mastertype>vod</mastertype>
+  <type>mp4</type>
+  <security>No</security>
+  <security_type></security_type>
+  <security_key></security_key>
+  <link>https://drive.google.com/file/d/0B5sLTPssZrwhT0M1cUVaZEdjOVk/view?usp=sharing</link>
+  <item_image>https://i.ytimg.com/vi/yrynT4T55Xc/hqdefault.jpg</item_image>
+<popup>
+  <message>Nani Teri Morni</message>
+  <type>non-blocking</type>
+<buttons>
+  <button><type>continue</type><text>Ok</text></button>
+  <button><type>cancel</type><text>Cancel</text></button>
+  </buttons>
+</popup>
+</item>
 </items>
 </xml>
