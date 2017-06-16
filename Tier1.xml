@@ -14,20 +14,12 @@
   <id>1</id>
   <name>Nani Teri Morni</name>
   <mastertype>vod</mastertype>
-  <type>youtubesinglevideo</type>
+  <type>youtubeplaylist</type>
   <security>No</security>
   <security_type></security_type>
   <security_key></security_key>
   <link>https://www.youtube.com/watch?v=nyY0xIz6u8Y</link>
   <item_image>https://i.ytimg.com/vi/yrynT4T55Xc/hqdefault.jpg</item_image>
-<popup>
-  <message>Nani Teri Morni</message>
-  <type>non-blocking</type>
-<buttons>
-  <button><type>continue</type><text>Ok</text></button>
-  <button><type>cancel</type><text>Cancel</text></button>
-  </buttons>
-</popup>
 </item>
   <item>
   <id>2</id>
@@ -39,14 +31,6 @@
   <security_key></security_key>
   <link>https://drive.google.com/file/d/0B5sLTPssZrwhT0M1cUVaZEdjOVk/view?usp=sharing</link>
   <item_image>https://i.ytimg.com/vi/yrynT4T55Xc/hqdefault.jpg</item_image>
-<popup>
-  <message>Nani Teri Morni</message>
-  <type>non-blocking</type>
-<buttons>
-  <button><type>continue</type><text>Ok</text></button>
-  <button><type>cancel</type><text>Cancel</text></button>
-  </buttons>
-</popup>
 </item>
 </items>
 </xml>
