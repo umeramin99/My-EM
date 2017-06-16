@@ -1,36 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xml>
-  <version>1.0</version>
-  <view>1-tierView</view>
-  <title>Poems</title>
-  <channel_logo>http://www.server.com/link/to/logo</channel_logo>
-<tier_info>
-  <item_startidx>0</item_startidx>
-  <total_items>3</total_items>
-<items_link>https://raw.githubusercontent.com/umeramin99/My-EM/master/Tier1.xml</items_link>
-  </tier_info>
-<items>
+http://tinyurl.com/jrrmyut
 <item>
-  <id>1</id>
-  <name>Nani Teri Morni</name>
-  <mastertype>vod</mastertype>
-  <type>youtubeplaylist</type>
-  <security>No</security>
-  <security_type></security_type>
-  <security_key></security_key>
-  <link>https://www.youtube.com/watch?v=nyY0xIz6u8Y</link>
-  <item_image>https://i.ytimg.com/vi/yrynT4T55Xc/hqdefault.jpg</item_image>
+<id>1</id>
+<name>Abro YT</name>
+<mastertype>VOD</mastertype>
+<type>youtubeplaylist</type>
+<playlist_id>fnnVT68cldVi1KjmF-UZidoJgGffSQgh</playlist_id>
+<category_view>1-tierview</category_view>
+<items_link/>
+<item_image>
+http://cds.n2p5u8x8.hwcdn.net/JPlusImages/Jadoo3/Dramas/Pakistani/PakistaniCurrent/Abroo.png
+</item_image>
 </item>
-  <item>
-  <id>2</id>
-  <name>Test</name>
-  <mastertype>vod</mastertype>
-  <type>mp4</type>
-  <security>No</security>
-  <security_type></security_type>
-  <security_key></security_key>
-  <link>https://drive.google.com/file/d/0B5sLTPssZrwhT0M1cUVaZEdjOVk/view?usp=sharing</link>
-  <item_image>https://i.ytimg.com/vi/yrynT4T55Xc/hqdefault.jpg</item_image>
-</item>
-</items>
-</xml>
