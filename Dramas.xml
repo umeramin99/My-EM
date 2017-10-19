@@ -5,7 +5,7 @@
 <name>Dramas</name>
 <description>Dramas</description>
 <encryption>no</encryption>>
-<channel_logo>https://github.com/umeramin99/My-EM/blob/master/Hum%20TV.png</channel_logo>
+<channel_logo>https://raw.githubusercontent.com/umeramin99/My-EM/master/Drama%20Lists.xml</channel_logo>
 <base_url>https://raw.githubusercontent.com/umeramin99/My-EM/master/Tier1.xml</base_url>
 </channel>
 </xml>
