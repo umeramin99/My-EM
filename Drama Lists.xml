@@ -1,33 +1,26 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xml>
-<version>1.0</version>
-<view>1-tierView</view>
-<title>New Channels</title>
-<channel_logo>https://github.com/umeramin99/My-EM/blob/master/Hum%20TV.png</channel_logo>
+  <version>1.0</version>
+  <view>1-tierView</view>
+  <title>Poems</title>
+  <channel_logo>http://www.server.com/link/to/logo</channel_logo>
 <tier_info>
-<item_startidx>0</item_startidx>
-<total_items>10</total_items>
-<items_link> http://www.server.com/link/to/this/page</items_link>
-</tier_info>
+  <item_startidx>0</item_startidx>
+  <total_items>3</total_items>
+<items_link>https://raw.githubusercontent.com/umeramin99/My-EM/master/Tier1.xml</items_link>
+  </tier_info>
 <items>
 <item>
-<id>44</id>
-<name>HumTV</name>
-<mastertype>vod</mastertype >
-<type>Dramas</type>
-<security>No</security>
-<security_type></security_type>
-<security_key></security_key>
-<link>Link to play this channel</link>
-<item_image>https://www.youtube.com/watch?v=tyRqA0DMlYU&list=PLbVdwtmx18suiUt2xjkFFjlJrSxUR1zsE</item_image>
-<popup>
-<message>Nani Teri Morni</message>
-<type>non-blocking</type>
-<buttons>
-<button><type>continue</type><text>Ok</text></button>
-<button><type>cancel</type><text>Cancel</text></button>
-</buttons>
-</popup>
+<id>1</id>
+<name>Mubarak Ho Beti Hui Hai</name>
+<mastertype>VOD</mastertype>
+<type>youtubeplaylist</type>
+<playlist_id>PLHWkZlkvcf_cq8MSmb9yRMxFhyBiRaQLx</playlist_id>
+<category_view>1-tierview</category_view>
+<items_link/>
+<item_image>
+https://i.ytimg.com/vi/yrynT4T55Xc/hqdefault.jpg
+</item_image>
 </item>
-</items>
+  </items>
 </xml>
